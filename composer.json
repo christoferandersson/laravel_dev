@@ -1,0 +1,15 @@
+{
+	"name": 	"christoferandersson/laravel_dev",
+	"authors": [
+		{
+			"name": 	"Christofer",
+			"email": 	"sir@christoferandersson.se",
+			"homepage": "http://boffe.net",
+			"role": 	"Developer"
+		}
+	],
+	"require": 
+		{
+			
+		}
+}
